@@ -1,3 +1,7 @@
+/*Author: Devin Leigh
+ *Project: Shunting Yard algorithm
+  Date: 2/21/2020
+*/
 #include <iostream>
 
 #include "abc.h"
